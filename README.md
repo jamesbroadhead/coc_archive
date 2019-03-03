@@ -10,3 +10,11 @@ If you have similar scenarios, I'd be happy to add them. If you'd like to add de
 
 ## Licensing
 These are individually licensed, and the copyright remains with the original authors. If you are one of these authors and would like your content removed, please ask.
+
+# Development
+
+Install hugo 0.54
+
+During Development:  `hugo server -D`
+
+To build for publishing: `hugo -s .`

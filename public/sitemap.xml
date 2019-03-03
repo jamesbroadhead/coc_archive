@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/coc_archive/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/call_of_cthulhu_archive/</loc>
+    <loc>/coc_archive/posts/call_of_cthulhu_archive/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/coc_archive/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>/coc_archive/posts/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/coc_archive/tags/</loc>
     <priority>0</priority>
   </url>
   
