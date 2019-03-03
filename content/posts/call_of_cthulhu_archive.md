@@ -3,17 +3,22 @@
 
 This is an archive of Call of Cthulhu scenarios which have dropped off the web. They were mostly recovered from the Internet Archive, starting from [E.P. Berglund's Cthulhu Mythos on the Internet](http://www.epberglund.com/RGttCM/cmnet09a.htm) page.
 
-If you'd like to help, send me a one-line summary with more detail than the below. If you'd like to provide more detail on the scenarios, please add them to the [Yog Sothoth Wiki](https://www.yog-sothoth.com/wiki).
+If you'd like to help, please send a PR. In particular: scenario summaries, title or author correction or conversion to markdown would be much appreciated!.
+Rather than adding lots of detail about scenarios here, add them to the [Yog Sothoth Wiki](https://www.yog-sothoth.com/wiki) instead.
 
 Please note that I have not yet read through most of these, so the titles and author information is partial and may be incorrect. If you are the copyright holder, and would like them removed, please contact me.
 
 
-1920s
+1890s
 =====
 
-* *Scenario Name* by _unknown_
+* [A Noble Doll](/1890/a_noble_doll/a_noble_doll.txt) by _Andrew Lewis_.
 
 
-Non-English
-===========
-Details of the below are particularly welcome - translations in particular!
+In French
+=========
+
+* [Une Noble Poupee](/1890/a_noble_doll/une_noble_poupee.txt), a translation of [A Noble Doll](/1890/a_noble_doll/a_noble_doll.txt) by _Jean-Michel Thoral_.
+
+
+

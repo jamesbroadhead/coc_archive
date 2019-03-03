@@ -1,0 +1,766 @@
+Une Noble Poupee
+
+Ce scénario a pour cadre l'Europe des années 1890, où les personnages seront forcés de se précipiter, une course contre des adorateurs du culte d'Y'golonac, mais aussi contre un culte énigmatique, le culte de la rose rouge. C'est un scénario long, impliquant une bonne connaissance de la magie et des contrées du rêve. Il pourra mettre en jeu n'importe quel groupe d'aventurier, mais est plus spécialement conçue pour un groupe originaire d'Angleterre, car le flegme britannique permettra de désamorcer certaines tensions.
+
+
+
+Contents
+Chapitre Un: Baptisee Par Les Tenebres
+Chapitre Deux: Autriche Et Les Adorateurs
+Chapitre Trois: Ceux Qui Viennent De La Mer
+Chapitre Quatre: Trop Tard
+Chapitre Cinq: Voleurs Dans La Nuit
+Chapitre Six: Paris, A Moitie Sauve
+Chapitre Sept: Les Marecages
+Chapitre Huit: Les Contrees Du Reve
+Chapitre Neuf: Des Allies Imprevus
+Chapitre Dix: Perdus
+Chapitre Onze: Victoire
+Appendices
+
+Copyright & Trademarks
+Titre original: A Noble Doll
+Traduction et adaptation: Jean-Michel Thoral
+
+Ce scénario, composé de textes de dessins, a été protégé contre la copie en 1997 par Andrew Lewis. Ce scénario peut être librement copié, imprimé et distribué sans modification uniquement dans le cadre d'un usage privé, et reste la propriété de l'auteur. Cette aventure doit rester dans le domaine public, et ne peut en aucun cas être vendue sans une autorisation implicite de l'auteur.
+
+
+Chapitre Un: Baptisee Par Les Tenebres
+
+
+Section Un
+Un personnage reçoit la lettre suivante.
+
+Lengrav Reinbach
+Officier de justice,
+23 Fitzen Roul
+Targu Mures, Roumanie
+Le 4 avril 1890
+
+Monsieur,
+J'ai le regret de vous annoncer que votre oncle, Clesvial Arnia, est mort lors d'un tragique accident, en tombant du sommet d'un à-pic de la région. Etant le représentant vivant le plus proche de votre oncle, il vous a couché sur son testament. Il vous a nomé successeur en temps que successeur pour la possession de ses quelques terres
+Malheureusement, il y a aussi des closes que vous devrez respecter avant de devenir propriétaire des possessions de votre oncle. Premièrement il est spécifié que vous devrez venir en Roumanie, accompagné d'amis de confiance et de proches. Il a aussi demandé que vous devrez au moins rester une nuit dans son manoir. Ceci fait, vous recevrez les titres de propriété qui vous échoieront de droit.
+Veuillez trouver ci-joint une clé qui devait vous parvenir au moment de sa mort. Je n'en connais pas l'utilité.
+Lorsque vous arriverez, veuillez passer à mon étude de façon à ce que je vous confie les clefs du manoir.
+
+
+Sincèrement,
+
+
+
+Lengrav Reinbach
+
+Accompagnant ce courrier, il y a une petite clef de bronze et 7 billets aller-retour pour Targu Mures.
+
+
+
+Section Deux
+Au cours du voyage ferroviaire pour la Roumanie, la suite des personnages est cambriolée pendant qu'ils sont partis dîner. La seule chose qui ai disparu est la petite clé de bronze. Le contrôleur ne peut pas plus les aider que la police, à la gare suivante. Le cambrioleur doit avoir sauté en marche du train : la porte à l'arrière du train a été ouverte et bat au vent
+
+
+
+Section Trois
+Une fois arrivés en ville, les personnages vont logiquement aller au bureau du notaire, qui va leur donner la lettre suivante.
+
+Cher neveu,
+
+Vous avez sans doute été surpris de découvrir que vous aviez un oncle vivant en Roumanie. Sachez simplement qu'une vieille querelle de famille a fait que j'ai été rejeté par la plupart des membres de notre famille, il y a longtemps. J'ai gardé contact pendant très longtemps contact épistolaire avec votre père… Sans doute par nostalgie...
+Bien, le manoir sera maintenant à vous, et vous pourrez le quitter si c'est votre bon vouloir, après avoir remplis ma petite demande. Si elle n'est pas honorée, quelle que soit la raison, mes biens iront à une œuvre de charité.
+Je vais vous demander de lire avec attention ce qui va suivre, et prenez le ensuite pour les divagations d'un vieux fou ou pas, mais soyez prévenu que si vous décidez d'ignorer ce qui suit, vous vous rendrez peut-être responsable de l'arrivée de l'enfer sur terre, et de vagues de désolation à travers tout l'univers.
+Je me suis installé dans ce manoir durant l'été 1866. Venant de Munich, et fatigué de la vie citadine, je rassemblais mes économies et acheta ce manoir à bas prix dans le but de me retirer du monde.
+En ce temps, il y avait de nombreuses rumeurs qui courrait dans le village sur l'ancien propriétaire de ce manoir qui était mort mystérieusement, sans doute par quelque moyen surnaturel, un vampire ou une autre créature malsaine ou impie similaire. Au début je les ignorais, jusqu'au jour où en remeublant l'ancienne étude de mon prédécesseur, je tombais par hasard sur un passage secret. Je l'ouvrais, et la pièce découverte est à ce jour mon étude, et dont vous avez la clef. J'y découvrais une bibliothèque pleine d'anciens volumes, dont certains tellement blasphématoires que je les brûlais sur-le-champ. Je suis resté catholique toute ma vie, et de tels blasphèmes ne doivent pas exister sur terre.
+J'ai commencé à changer d'état d'esprit en découvrant les différentes parties d'une très ancienne poupée ou d'un mannequin magique. Elle apparaissait comme un mannequin normal, excepté des traits singulièrement dérangeant de son visage et de son torse. Les membres m'apparurent bizarrement déformés. Lorsque j'assemblais cette chose, elle se mit à dégager une clarté tellement démoniaque que je décidais de m'en débarrasser de suite. Mais rien, que ce soit l'acide, le feu ou le fer ne semblait pouvoir endommager sa surface.
+Je regrette maintenant d'avoir détruit autant de tomes rares, mais je découvrit que l'artefact en question datait de temps immémoriaux et était utilisé lors des rituels magiques. J'ai aussi découvert que son nom véritable ne peut pas être prononcé en sa présence par un être mortel sans éveiller des flots de créatures issues des plus profondes couches de l'enfer. Sachant cela, j'ai immédiatement détruit toute référence au nom de la chose.
+Je cherche maintenant le moyen de détruire la chose et son pouvoir, qui pourrait être utilisé de différentes manières, dont le contrôle de populations entières ! Imaginez le chaos qui en résulterait ! Le passage suivant provient de la traduction d'un livre enfermé dans les profondeurs de la librairie royale de Londres :
+
+'...et cette chose, diabolique et éternelle, un corps d'homme, mais qui peut être utilisé pour le détruire, permet aussi l'invocation d'êtres d'une folie incommensurable provenant d'un passé innommable. Cette chose impie ne pourra jamais être détruite par l'homme. Seuls ceux qui sont au-dessus de l'homme bien que plus faibles que l'homme [...] et seulement avec l'aide de...'
+
+Le livre était incomplet et certaines de ses pages déchirées comme si un homme fou avait essayé de le détruire, mais lors de recherches suivantes, j'ai découvert que les dieux du rêve pouvaient détruire ce que l'homme ne pouvait détruire.
+Mes recherches ne passèrent pas inaperçues par d'autres, qui étaient intéressé par le pouvoir que le mannequin aurait pu leur apporter, et en revenant en Roumanie, j'ai été accosté par un certain nombre de personnes qui tentèrent de s'approprier le mannequin. J'ai désassemblé secrètement l'ensemble de la poupée et l'ai vendu de part le monde, ne conservant que sa tête.
+Veuillez si vous y parvenez, détruire cette abomination de la surface de la terre.
+
+Sincèrement,
+
+
+
+Clesvial Arnia
+
+
+
+Section Quatre
+Le manoir en lui-même est classique, mais sa décoration est très sombre et oppressante. Des recherches ne permettront que de découvrir dans une chambre, dissimulé par un panneau de bois coulissant, un long couloir étroit qui aboutit à une porte en bois, fermé par une serrure de bronze. Il y a une forte odeur d'ammoniac dans l'air du corridor. A l'intérieur, il y a de nombreux rayonnages, un de ceux-ci supporte une grande caisse, et une sorte de climatiseur, d'où s'échappe une flaque d'ammoniaque. La caisse est à moitié remplie d'eau. Il y a également une sorte de mousse noirâtre qui est partout. La plupart des livres sont ici dans un tel état qu'il est impossible de les lire, mais étudier certains fragments de ceux qui restent entiers rapporte 5% en mythe du Cthulhu, et la connaissance d'un symbole servant à retenir les grands anciens sur une courte période de temps.
+Sur un mur il y a une image, maintenant couverte d'eau, d'une scène ensoleillée. En fait cette image a été peinte sur un porte de plomb qui dissimule un large espace vide, tout en longueur, suffisant pour contenir un corps ou le mannequin, mais qui ne contient plus pour l'heure qu'une tête sans yeux et une carte de visite d'un prêteur sur gages.
+
+
+
+Section Cinq
+Pendant la nuit, les personnages entendent à l'extérieur un chien qui soudainement se met à aboyer puis se tait tout aussi soudainement. Puis plusieurs coup de feu, et un gros fracas à l'intérieur du manoir… En jetant un coup d'œil à l'extérieur, les personnages pourront voir un polype volant malmener un loup au sommet de l'escalier principal. Il attaquera le personnage s'il l'aperçoit.
+
+
+
+Section Six
+Le jour suivant, les personnages reçoivent la visite à 9 heures du matin de l'huissier de justice. Il a l'air excité quand il déclare : « et bien, j'ai une offre à vous faire pour une certaine antiquité qui vous revient de droit : un homme m'a accosté ce matin pour m'offrir 100 000 livres anglaises en échange d'une tête de mannequin. Il m'a donné un lieu de rencontre si vous voulez le rencontrer… »
+
+Les personnages peuvent rencontrer l'homme en question qui est musclé et de haute stature. Il porte un imperméable et semble mal à l'aise dedans. C'est un adepte du mythe du Cthulhu, mais en l'occurrence il prétend être un collectionneur d'art anglais, s'intéressant aux premiers exemples de mannequins dans l'histoire. Il partira de la ville dés la trasaction faite, et déclarera ne pas comprendre pourquoi les personnages s'y enterrent…
+
+
+
+Section Sept
+Les personnages peuvent aller voir le vendeur à gages qui gentiment leur dira que le corps a été vendu magasin international de la mode, à Salzbourg, en Autriche, après avoir appris le décès de son ancien propriétaire. Les affaires ne tournaient pas très fort à ce moment là, et cette a été la bienvenue…
+
+
+
+Chapitre Deux: Autriche Et Les Adorateurs
+
+
+Section Un
+Les personnages peuvent trouver facilement le magasin. Il y a des employés qui le nettoie, comme s'il y avait eu un attentat récemment : toute la devanture a été pulvérisée…
+
+Une fois Heinheltz Colf, le directeur du magasin trouvé, il déclarera que c'est le second casse de sa carrière. S'il est intérogé à propos du mannequin, il ira regarder, et reviendra quelques instants plus tard en disant que les pièces du mannequin ont été toutes vendues, par contre le registre des ventes est introuvable, probablement avec d'autres affaires, depuis le cambriolage. Aussi bizare que cela puisse paraître, ce mannequin a été vendu très rapidement, peut-être à cause de son excellent état de conservation. Il est normal de vendre en pièces détachées un manequin aussi ancien, dont il manque la tête.
+
+
+
+Section Deux
+Alors que les personnages recherchent un hôtel (si ce n'est pas déjà fait), ou se dirigent vers leur hôtel, à chaque jet réussi en Trouver Objet Caché permettra de se rendre compte qu'ils sont suivis par un homme. Ce dernier est petit et flasque, vieux et grisonnant. Ses vêtements sont de mauvaises facture, déchirés et sales. Il s'agit d'un adepte du culte de Y'golonac, et si les personnages essayent de l'accoster, il tentera de faire un contrôle de l'esprit sur chaque personnage, qui lui remettra alors contre sa volonté la tête du mannequin.
+
+Il fuira s'il ne parvient pas à prendre le contrôle de l'esprit de l'un ou de l'autre (faire un jet de pouvoir contre pouvoir sur la table universelle pour savoir si sa tentative de contôle fonctionne).
+
+
+
+Section Trois
+Il est maintenant tard, et les personnages ont trouvé un hôtel. Ils doivent réussir un jet d'écouter pour entendre les pas d'une foule dans le hall d'hôtel. Leur chambre est ensuite attaquée par un groupe de 7 hommes gras, qui tentent de trouver la tête. Si l'un d'eux est capturé, il dira aux personnages qu'ils ont été envoyés par un homme appelé Golon qui vit dans un manoir au-dessus de la ville. Alors que les hommes sont à terre depuis une minute, ils commencent à mutter en d'horribles forms d'Y'golonac et ensuite se vaporisent, et au moment de leur mort (0/1d6 point de santé mentale perdue).
+
+La police n'écoutera pas les personnages, sans avoir de corps pour accréditer leur étrange histoire. Les personnages sont aussi étrangers, ce qui ne facilite pas leur progression. S'ils insistent, 2 officiers enquêteront et découvriront qu'un homme appelé Golon a un nombre impressionnant de serviteurs, mais aucun ne manque à l'appel.
+
+
+
+Section Quatre
+Le manoir est immense, et entouré par un mur d'enceinte très large et haut. Alors que les personnages commencent à faire le tour de l'enceinte, s'ils réussissent un jet en Trouver Objet Caché, ils remarqueront que plusieurs hommes s'approchent de la propriété, armés d'épées et de matraques. Ces hommes ont une rose rouge tatouée sur leur tempe droite. Ils se mettent à attaquer le manoir. Les personnages doivent soit partir furtivement soit se cacher pour passer inaperçu : le culte de la rose rouge les ignorera, mais les hommes d'Y'golonac les attaqueront à vue.
+
+Avec un peu de précautions, les personnages pourront entrer dans la salle centrale du manoir et découvrir un livre qui parle du manequin (+3% en mythe, 1d4 de perte en santé mentale), et les plans du magasin attaqué.
+
+A peine découvert ce trésor, un représentant du culte de la rose rouge entre et leur dira « copiez ces documents et partez ou mourrez ! ». Ce qui suit est le contenu du document :
+
+Acheteur	Ville	Pays	Partie vendue
+Le couturier Manneuin	Anzio	Italie	Jambe gauche
+Les parures royales	Münster	Allemagne	Haut du torse
+Fêtes de mode	Tilbourg	Pays Bas	Bras droit
+Germain Deredor	Paris	France	Jambe droite
+Jacqueline Houlm	Fos-de-Craud	France	Bras gauche
+La maison d'Hammond	Douvres	Angleterre	Bas du torse
+
+Les seuls passages intacts sont les suivants.
+
+"Comme les dieux mortels sont si faibles, il n'est même pas sûr qu'ils puissent détruire la Chose-pouvant-ramener-Ceux-du-dehors-qui-sont-piégés-et-dorment, sans l'aide de la branche de l'Orme de Corote."
+
+
+
+Chapitre Trois: Ceux Qui Viennent De La Mer
+
+
+Section Un
+Les personnages peuvent prendre une ligne directe de Salzbourg à Anzio. Le village est un petit village de pêcheur, habité uniquement par des gens qui ne parlent qu'italien. Les personnages doivent se débrouiller pour trouver un traducteur avant de se rendre à ce village. Si ce n'est pas le cas, ils auront toutes les peines du monde à seuement localiser l'échope. Le village de pêcheur est situé sur la mer Tyrrhénienne, et il y a une seule petite auberge : le vagabond, dont les chambres sont moyennement propres. Le petit déjeuner est servi tous les matins dans la salle commune. Ils arrivent tard (vers 20 heures) et l'échope est fermée. Elle est située sur le boulevard du Bord de mer.Le propriétaire ne vit pas dans le commerce, et il n'y a aucune lumière à l'intérieur. Les personnages peuvent éventuellement essayer de crocheter la porte, mais s'ils y arrivent, ils pourront avoir accès à l'intérieur, mais ça ne leur servira pas à grand chose : il n'y a pas de lumière artificielle et ça prendrait des heures à trouver à taton ce qu'ils cherchent. L'échope paraît être en désordre.
+
+
+
+Section Deux
+Le jour suivant, les personnages se réveillent à 6 heures (il n'y a pas de volet aux fenêtres…) et peuvent descendre pour prendre leur petit déjeuner. Il est composé d'une large variété de produits de la mer, et un journal est à disposition. L'article suivant retient leur attention.
+
+Fugue ou enlèvement?
+
+Deux jeunes filles du pays, Evanda Itana and Juliana Liro, qui ont disparu la semaine dernière n'ont toujours pas été retrouvées. La police est sur les dents et n'a trouvé aucune preuve d'enlèvement, excepté le fait que la chambre des deux jeunes filles ont été retrouvées sans dessus dessous. Ce qui peut supposer une lutte ou une mise en scène. La police a aussi émis l'hypothése selon laquelle une voir les deux jeunes filles aurait été enceinte et elles auraient fuit de peur de représailles.
+
+La mére d'Evanda a déclaré à nos journalistes que ces deux jeunes filles n'étaient pas intimes, et qu'elle ne croyait pas un instant à cette thése. La police continuera ses investigations jusqu'en fin de semaine, après quoi elle arrêtera ses recherches sans autre preuve.
+
+
+Les personnages rencontreront des difficultés pour poser des questions, leur statut d'étranger en faisant des suspects idéaux aux yeux des autochtones.
+
+
+
+Section Trois
+Au moment où les personnages finissent leur petit déjeuner, ils entendent tous à l'extérieur un chariot qui roule à tombeau ouvert, clairon sonnant. En se ruant dehors, les personnages peuvent apercevoir un filet de fumée provenant du côté de la mer… En s'approchant, ils apperçoivent des gens qui hurlent ou qui se précipitent vers le foyer d'incendie : le magasin de mannequin est en feu.
+
+
+
+Section Quatre
+Alors que les personnages approchent du magasin, ils peuvent apercevoir qu'il y a une chaine de solidarité qui s'est faite et de grands seaux d'eau de mer sont jetés régulièrement sur le brasier. Le brasier a de bonnes chances d'être éteint maintenant, et la majeure partie de l'attention est retenue par le fait d'éviter qu'il reprenne. Il y a un homme debout, en imperméable, qui se tient, l'air découragé, sur un côté de la maison en feu. Les personnages peuvent lui parler. Son nom est Luichi Maripano, et il est le propriétaire de ce qui n'est plus qu'un amas de cendres. Il venait juste d'avoir une grosse commande... S'il est interrogé à propos de la jambe de mannequin provenant du magasin de Salzbourg, il déclare qu'il en était effectivement propriétaire, mais pour son infortune n'en sait pas plus.
+
+Soudain, provenant de l'intérieur, un cri, et un homme, couvert de suie et toussant, sort un bébé enveloppé de couvertures. L'homme en question a un torse large et un jet en Trouver Objet Caché permettra de remarquer que sont torse est entièrement couvert de tatouages ou de dessins, pratiquement recouverts par la suie. Il tombe littéralement dans les bras des pompiers qui rapidement le transportent jusqu'à une charrette qui l'enmène au loin. L'échoppe s'écroule juste après cet incident, et bien sûr, aucune trace de la jambe de mannequin dans les restes…
+
+
+
+Section Cinq
+Les personnages peuvent demander des renseignements à propos du pompier héroïque, mais pas un ne le connaît. Ils assurent tous qu'il est d'une caserne d'une autre ville. Il n'avait pas autant inhalé de la fumée que le supposait son état de prime abord et il a été capable de quitter l'hôpital pratiquement sur-le-champ. Un des pompiers se rappelle maintenant le soin extrême qu'il a mis à porter les couvertures qui bougeaient bizarement. Peut-être a-t-il volé quelquechose dans le magasin. Personne ne l'a vu après. Le bébé est la fille de madame Perfisti.
+
+Les personnages peuvent aller voir madame (Clara) Perfisti, mais cette dernière déclare avoir seulement découvert la disparition de son bébé après qu'elle soit revenue après avoir aidé à l'extinction du feu. Elle a immédiatement paniqué et prévenu les autorités de la disparition de sa fille. Sa fille lui a été rendue quelques temps après, après son escapade. Elle n'a aucune idée de ce que faisait sa fille là-bas, et comment elle a pu s'y rendre.
+
+
+
+Section Six
+A part l'auberge où sont descendus les personnages, ils y a un bar dans le village, où les personnages peuvent enquêter sur le mystérieux pompier. Le bar est sur le port et le décor y est inspiré de la mer. Tous de ses clients sont d'ailleurs des pêcheurs. Un viel hmme est assis dans un coin sombre, et se rappelle qu'une vingtaine de minutes après que le feu ai commencé, un homme quelque peu couvert de suie et habillé de haillons et a commandé à boire, puis a bu d'un trait sa consommation et ensuite qui a filé droit de la ville vers le bord de mer. En suivant ce chemin, les personnages peuvent découvrir une cabane cachée entre les dunes en réussissant un jet de Trouver Objet Caché. Cette cabane n'a qu'une pièce, et dedans il y a, à moitié dévorée, de la chair de poisson.Un jet réussi en TOC ou en pister permet de découvrir quelques traces dans le sable. Elles permettent d'aller jusqu'à une caravane de gitan à une dizaine de métres des marques laissées par la marée. Les personnages ne peuvent voir personne à part cette caravane.
+
+
+
+Section Sept
+Des sons étranges proviennent de l'intérieur de la carvane, que les personnages peuvent approcher soit en réussissant soit un jet en se cacher soit un jet en discrétion pour éviter d'être repèré. Les personnages peuvent apercevoir 2 hommes et 2 profonds violer tour à tour 2 femmes… 1/1d6 de perte de santé mentale.
+
+
+
+Description Un
+'On peut dire que leur couleur prédominante est gris-vert, bien que leur ventre soit blanc. Il y a des zones brillantes et visqueuses, mais la crête sur leur dos est très écailleuse. Leur forme rappelle vaguement un anthropoïde, dont la tête serait celle d'un poisson, dénué de cou et avec des yeux démesurés et jamais clos. A la fin de leur cou il ya des branchies palpitantes et leurs pattes sont palmées. Ils se déplacent en sautant irrégulièrement, sur 2 et parfois quatre jambes… Leur voix oscille entre le croassement ou abboiement et contient toutes les émotions qu'ils ne peuvent exprimer avec leur faciès figé… Ils sont un blasphéme entre le poisson et la grenouille, vivant et horribles. - L'ombre au-dessus d'Innsmount par H.P. Lovecraft
+
+
+
+Section Huit
+Les hommes ont tous les deux un grand œil vert tatoué sur leur poitrine. Les personnages peuvent attaquer les hommes et les profonds. Une fois les hommes morts, leur tatouage disparaittra. Les 2 femmes ont les yeux exorbités et fixes, leur esprit n'ayant pas résisté au traitement. Au bout d'un moment elles se pelotonneront l'une-l'autre, en proferant un charabia sans suite.
+
+A l'intérieur de la caravane, il y a 2 couchettes, et un coffre rempli de nourriture. Au fond de la caravane il y a un autel. Dessus git la jambe, ainsi qu'un livre, le livre du vrai Croyant. Il occroit +6% en mythe contre la perte d'1d6 points de santé mentale. A l'intérieur il y a un passage sur des rituels immondes permettant au croyant d'appeler une grande créature, Cthulhu, qui git endormi au fond de l'océan, et quand elle sera réveillée, permettra aux adorateurs qui l'auront réveillé d'assouvir toutes ses envies. Ce livre parle aussi d'un serviteur vivant de Cthulhu, appelé le profond, qui est dépositaire de la parole divine. Il y a un autre passage décrivant comment invoquer une autre créature, Yog-Sothoth, un puissant dieu magicien, qui finalement sera libre de déchirer la réalité.
+
+
+
+Chapitre Quatre: Trop Tard
+
+
+Section Un
+Le voyage en train jusqu'à Münster se passe sans incident. En arrivant dans cette ville, les personnages voient une grande forêt, et un château aux fenêtres éclairées (c'est la nuit). La ville est concomitente à une immense forêt. Les personnages doivent aller à un magasin appelé 'les parures royales'. Dans cette ville, tout le monde parle allemand, et il est difficile de parler avec un autochtone à moins de louer les services d'un interprète. Le magasin est dans le quartier commercial de la ville. Les personnages peuvent demander le directeur du magasin, devant lequel ils seront amenés rapidement. Le chef du magasin s'excusera, mais déclaera avoir vendu à son tour le haut du torse à un viel homme pour l'équivalent de 50 livres. L'homme portait une jaquette très épaisse ainsi qu'un nombre important de vêtements. Les personnages obtiennent la description complête de l'acheteur.
+
+
+
+Section Deux
+En se renseignant auprès des hôtels locaux (L'Hôtel de l'homme du nord, de Nias, l'arche de guerre, le repos du guerrier, l'hôtel de Narand et le relais du chasseur), dans ce dernier refuge, ils découvrent qu'un homme correspondant à la description qu'ils donnent est bien client.
+
+
+
+Section Trois
+Alors que les personnages attendent dans le hall d'entrée de l'hötel, ils remarquent l'homme qui se dirige vers la cheminée. Accostant l'homme, il niera avoir acquis l'étrange artefact, et invitera les personnages à venir vérifier de leurs propres yeux dans sa chambre. Alors qu'ils pénètrent dans le vestibule menant aux chambres, ils entendent un bruit étrange s'ils réussissent un jet en écouter. Alors qu'ils entrent dans la chambre, ils surprennent 3 hommes qui disparaissent par la fenêtre. Un des hommes a juste le temps de disparaître rapidement, en emportant la pièce si convoitée. L'homme est grand et bien bâti.
+
+
+
+Section Quatre
+Les personnages peuvent tenter de le poursuivre, mais il les séme bientôt dans les abords de la forêt. Un jet réussit en pister permet de déterminer la direction de fuite de l'individus, mais ils sont accostés par 2 policiers qui leur demande leur destination et contrôlent leurs papiers. Les 2 officiers mettent en garde les personnages car ils sont sur les traces de malfrats, et des renforts de l'armée seront là demain pour poursuivre la chasse à l'homme dans une si vaste étendue. De toute façon le château est inhabité et en ruine, et il n'y a aucune raison d'avoir apperçu des lumières à l'intérieur, à moins que les malfrats en ai fait leur quartier général.
+
+
+
+Section Cinq
+Les personnages peuvent tenter de se rendre au château, mais ils feront alors la rencontre de nombreux malfrats dans la forêt. L'avant du château est un amoncellement de fortifications, et ils peuvent voir des hommes armés faisant des tours de garde sur les plus hautes tours. En contournant le château, les personnages peuvent voir que l'arrière du château est franchement endommagé et permettrait de pénétrer à l'intérieur. Il grouille d'adorateurs du mythe.
+
+Soudain, une explosion suivie de cris provenant de l'avant, suivi de flammes qui enbrasent tout le palais. Le culte de la rose rouge est passé à l'action.
+
+Profitant de la confusion qui s'en suit, les personnages finissent par se retrouver dans une pièce occupée par une trentaine d'adorateurs debout au milieu d'un immense symbole gravé sur le sol représentant une étoile avec au centre un rejeton de Cthulhu devenant complêtement fou. Si le contrôle ne se termine pas, la créature, complètement folle, se mettra à tuer tout le monde, sinon il n'attaquera que les représentants de la rose rouge. Si les personnages participent à la mort de l'invocateur, ils pourront consulter les documents qui trainent dans le coin de la pièce. Ils contiennent les informations sur l'utilisation du mannequin comme focus de magie. Chaque fois qu'un personnage utilise 5 PM pour lancer un sort via le mannequin, il perd 1 point de santé mentale.
+
+
+
+Description Un
+'…Un monstre vaguement anthropoïde se devine, mais avec une tête de pieuvre garnie de nombreux tentacules, un corps écailleux, caoutchouteux, d'énormes griffes à l'extrémité de tous les membres, et de longues et fines ailes membraneuses dans le dos… Son apparence générale est comme boursoufflée… ' L'appel de Chtulhu par by H.P. Lovecraft
+
+
+
+Section Six
+En cherchant, et occasionnellement rencontrant des combattants des 2 bords, les personnages finiront par ne plus avoir à explorer une pièce qui se trouve derière une porte de force 12, ou ils peuvent s'attaquer à la serrure. Dedans, la pièce si convoitée.
+
+
+
+Chapitre Cinq: Voleurs Dans La Nuit
+
+
+Section Un
+Pendant le voyage jusqu'aux Pays-Bas, les personnages rencontreront dans le train un viel homme mou (un adepte du culte d'Y'golonac). Plus tard, ils découvrent qu'il y a 3 de ces hommes, qui tentent juste avant leur arrivée à Tilbourg, au moment où ils tentent de cambrioler leur compartiment et voler le plus de pièces possibles du mannequin. Ils appuyeront ensuite sur l'arrêt d'urgence et tenteront de s'enfuir.
+
+
+
+Section Deux
+Arrivé à Tilbourg, les personnages doivent aller à la mairie pour trouver l'adresse du magasin. Une fois sur place, ils découvriront que le magasin est fermé, et la vitrine ainsi que le magasin ont été vidés de leur contenu. Une pancarte écrite en hollandais permet de savoir que suite au décés du gérant, le magasin sera fermé jusqu'à nouvel ordre…
+
+Après prise de renseignements, les personnages peuvent apprendre que l'éxécuteur testamentaire s'appelle Ivor Malanak, et travaille pour le cabinet Malanak & Malanak. Une fois reçu par les associés, les personnages apprennent que l'intégralité du contenu du magasin a été répertorié et enfermé dans une banque, en attendant le futur héritier Erin Ferol, dont ils obtiennent l'adresse.
+
+
+
+Section Trois
+Au domicile d'Erin, les personnages qui frappent à la porte n'obtiennent aucune réponse. S'ils contournent la maison, ils découvriront que la porte arrière bat au vent, et en entrant, ils entendront des bruits étouffés provenant du premier. En s'y rendant, les personnages peuvent voir un vampire stellaire en train de se nourrir d'un corps dans un corridor. Le vampire stellaire mettra environ une trentaine de seconde pour se nourrir, puis restera visible environ 3 minutes après.
+
+
+
+Description Un
+'Lentement mais sûrement, les contours de la présence devinrent visibles, des contours sanglants d'une abomination provenant des étoiles. Il est rouge et dégoulinant, une immensité de pulsation, une gelèe en mouvement, une tâche écarlate avec une myriade de protubérances armées de tentacules qui ondulent interminablement. Elles comportent des ventouses à leurs extrémités, et s'ouvrent et se ferment avec une avidité macabre… Le bruit qui s'en dégageait était repu et obscène. Une masse sans tête, sans visage, sans yeux, mais avec une bouche avide et des serres provenant d'un monstre ayant vu le jour entre les étoiles. Le sang humain révéla les contours invisibles du festoyeur.' L'abomination venant des étoiles par Robert Bloch
+
+
+
+Section Quatre
+Si les personnages n'y vont pas immédiatement, ils trouveront le cadavre d'Erin, totalement vidé de son sang. Le bras n'est pas dans la maison. Les personnages peuvent soit alerter les autorités de leur macabre découverte, soit attendre que le corps soit découvert.
+
+2 jours après, l'éxécuteur testamentaire note qu'Erin n'est pas venu réclamer son bien, et donc contactera son cousin, Shoringarner Ferol. Les personnages peuvent aller à son domicile, un petit manoir en dehors de la ville. La-bas, il y a beaucoup d'ouvriers, travaillant la terre. Mais la plupart ne portent pas que des outils d'agriculture, mais également des épées ou des haches. Les personnages peuvent se rendre au manoir et rencontrer le chatelain : il est petit, rablé, et une barbe noire taillée en pointe. Il dira aux personnages que même s'il était en possession du bras, il ne le donnerait pas au personnage, à cause de sa valeur évidente. Il déclare alors qu'il ne sait même pas s'il est en possession du bras en question, car il n'a pas encore été à la banque. Alors que les personnages s'apprêtent à partir, ils peuvent entendre (sur un jet réussi en écouter) un étrange glouglou provenant d'une batisse dehors.Les personnages peuvent alors voir quatre vaches qui sont menées dans le hangar, en y regardant de plus près, les personnages peuvent apercevoir une rampe étrange sortant du dit hangar. Les travailleurs ne permettront pas aux personnage d'approcher.
+
+
+
+Section Cinq
+Lorsque les personnages reviennent à leur hôtel, ils découvrent que leurs serrures ont été crochetées, leur chambre cambriolée, et toutes les parties précédement récupèrées qui n'ont pas été cachée volées… En interrogeant le personnel de l'hôtel, quelques uns ont remarqué 2 hommes agés et gras sortant de leurs chambres.
+
+
+
+Section Six
+Si les personnages réussissent un jet en écouter pendant la nuit, ils sont réveillés par le même bruit qu'ils ont entendu chez Erin. Ils sont attaqués par un vampire stellaire, suivi d'Erin lui-même qui tentera de récupérer les parties possédées par les personnages. S'il échoue, il fuira.
+
+
+
+Section Sept
+Les personnages peuvent demander la description des vieux hommes gras, qui correspond à celle de leurs cambrioleurs de leur compartiment provenant de la France. Ils peuvent aussi se renseigner sur Erin, qui avait le plus gros troupeau de moutons de la région, et qui maintenant n'en a plus un…
+
+
+
+Section Huit
+Si le cousin est encore en vie, la ville est soudainement enveloppée par un épais brouillard, avec des éclairs et du tonnerre. Les personnages devront aller au manoir, et tuer Erin pour l'empêcher d'invoquer Yog-Sothoth. Tous les ouvriers ont fuit, et il se prépare à ouvrir un portail dimensionnel dans le hangar. Les personnages peuvent ensuite fouiller la maison et trouver un document appelé Des sorts et des sorciers (+5% en mythe, 1d8 points perdus en santé mentale), qui leur permettra de recupérer les sorts suivants : invoquer un vampire stellaire, contrôler un vampire stellaire, invoquer Yog-Sothoth, contacter Yog-Sothoth. Il y a également un livret appelé Les formes anciennes des hommes, qui contient des informations sur le mannequin et un sort qui ne peut être lancé qu'en présence du mannequin, Trouver le mal.
+
+
+
+Spells
+
+    Invoquer un vampire stellaire : 10 PM, 1D3 SAN; Le sort doit être lancé uniquement pendant la nuit, quand les étoiles sont visibles. Un bol de sang humain est nécessaire à l'invocateur, qui doit être nu et un chant proferé.
+    Contrôler un vampire stellaire : 3 PM; Une créature vivante, de la taille d'une souris au moins doit être donné en pâture au vampire, en chantant une mélopée.
+    Invoquer Yog-Sothoth: 12 PM, 1D8 SAN; Cette invocation prend des mois, le temps de nourrir constament la chose à moitié formée. Pendant cette période, l'invocateur ne regagne aucun point de magie et Yog-Sothoth doit être nourri au moins 50 jours avant d'être relâchée.
+    Contacter Yog-Sothoth: 4 PM, 1D3 SAN; Doit être lancé à ciel ouvert, en chantant.
+    Trouver le mal : 4 PM, 1 SAN; Un chant doit être répété à proximité du mannequin monté. Ce dernier montrera la direction de la source de mal la plus proche. Etant donné que le mannequin est lui-même une source de mal, il désignera les portions de son corps manquantes.
+
+
+
+Chapitre Six: Paris, A Moitie Sauve
+
+
+Section Un
+Les personnages prennent le train pour Paris, et le voyage se passe sans incident. Peu après le passage de la frontière française, les personnages sont réveillés soudainement par un bruit de frein suivi d'un bruit d'impact : la locomotive et le premier wagon viennent de dérailler. Le train est plongé dans l'obscurité, et 4 adorateurs tentent de dérober les pièces du mannequin en possession des personnages et fuiront s'ils se sentent menacés. Remettre le train sur rail et amener une nouvelle locomotive prendra un jour entier.
+
+
+
+Section Deux
+Germain Deredor est un dessinateur de mode. Les personnages peuvent facilement connaître l'adresse de son magasin en la demandant, qui est dans le centre ville, ou en consultant un carnet d'adresses, une fois dans la gare. Germain est un homme grand, blond, aux yeux bleus. Il est très poli, mais il a déjà vendu la partie du mannequin qu'il a acquis à un homme portant un tatouage de rose rouge sur le coin de l'œil gauche. Il n'a ni donné de nom ni d'adresse, mais a payé comptant.
+
+
+
+Section Trois
+Les personnages soit peuvent avoir acheté soit avoir trouvé à l'hôtel un journal. Dedans, l'article suivant attirera leur regard.
+
+Un cadavre dans la Seine
+
+Un homme a été trouvé flottant dans la seine la nuit dernière par un promeneur sur les bords de la seine. L'homme n'est pas français, mais les gendarmes ont été capables de trouver où il vivait, un petit hôtel. Sa chambre avait été cambriolée, et il est probable qu'il a été tué au moment où il a surpris son ou ses aggresseurs : il y avait encore de l'argent dans la chambre d'hôtel. Les gendarmes n'ont laissé filtrer aucune information quand à la cause de la mort, mais ils ont laissé filtrer qu'il y avait de la peinture ou une autre substance sur le front de l'homme.
+
+Les personnages peuvent aussi aller voir les gendarmes, et après un jet réussi en persuasion/baratin, pourront voir le corps. Les gendarmes seront incapables de s'expliquer ce qui s'est passé. Le corps a été complétement mutilé, des morceaux de chair arrachés, les yeux arrachés, une torture complête (1d6 de perte de santé mentale). Un homme a été apperçu fuyant au nord.
+
+
+
+Section Quatre
+Soit les personnages peuvent aller dans les quartiers nord de la ville, et après trois jets réussi en chance remarquer un homme costaud dont la description correspondrait au signalement de l'homme en fuite, soit ils peuvent utiliser n'inporte quelle portion de manequin pour désigner la direction de la portion la plus proche. C'est un quartier très pauvre et les personnages peuvent être agressés (1 chance sur 6 par heure passée dans le quarrtier de jour, le double de nuit). S'ils sont attaqués, ce sera par 1d6 hommes.
+
+
+
+Section Cinq
+Que les personnages utilisent le mannequin, ou suivent l'homme mystérieux, ils arriveront à une maison avec des murs hauts. S'ils l'accostent, il les combattrera et fuira dans la maison, mais même sous la torture ne parlera pas. Il est complêtement fou et dévoué à Cthulhu. Alors que les personnages approchent de la maison, ils apperçoivent 5 mendiants, tous vieux et gras, se levant, défonçant la porte et se précipitant à l'intérieur. Plusieurs autres mendiants les suivront. Les personnages peuvent charger et chercher la jambe. Mais s'ils utilisent la portion de mannequin, elle ne les conduira qu'à des adorateurs de Cthulhu ou de Y'golonac. Eventuellement, ils trouveront une jambe de mannequin, mais le mannequin ne les guidera pas dessus. S'ils la prennent, ils seront attaqués en sortant, et la jambe se brisera pendant la rixe.
+
+
+
+Section Six
+Les personnages peuvent retourner à la boutique de Germain Deredor et questionner les employés. L'un d'eux, Francis Freen, leur avoue avoir volé la jambe du mannequin pour le compte d'un homme, Hern, en la remplaçant par une fausse. C'est Hern qui lui a demandé lui-même de l'avouer aux personnages. Au domicile de Hern, les personnages pourront sentir une odeur de brulé et de moisissure ou de champignon : un côté de la maison est entièrement consummé. Hern est un homme grand, brun, à peau mate et a la barbe non entretenue. Compte tenu de la masure dans lequel il vit, il a une bibliothéque fournie en livres rares. Hern donnera respectueusement la jambe aux personnages et dira :
+'Je l'ai prise quand j'ai vu plusieurs adorateurs d'Y'golonac, accompagnant une sorte de prieur démoniaque qui ne recrutait que les plus mauvais hommes s'y intéresser. J'ai été intéressé d'apprendre que le culte de la rose rouge la recherchait, mais ils sont une énigme pour moi, et je ne leur ai pas fait confiance.'
+
+
+
+Chapitre Sept: Les Marecages
+
+
+Section Un
+Il ne se passe rien pendant le voyage feroviaire jusqu'à Fos-de-Craud se passe sans incident, mais le voyage est très long, car les personnages n'ont trouvé qu'une patache qui s'arrête à toutes les gares. Le contrôleur expliquera que Fos-de-Craud était autrefois un port de pêche prospère, mais a eu un revers de fortuene récent, et il n'y a presque plus de commerce dans le village. Pour les derniers 5 miles du voyage, les rails traversent des marécages, pour arriver à son but final.
+
+
+
+Section Deux
+Fos-de-Craud est une petite ville d'environ 500 habitants. Pour chaque maison habitée, il y en a une à l'abandon. Il n'y a qu'une seule auberge, le marin chantant, et tout le monde parle français. L'accent est étrange, et sans accent. Un jet réussi en français permettra de déterminer qu'il s'agit d'un ancien dialecte, parlé dans la campagne et les villages isolés.
+
+Les personnages peuvent en traversant le village apercevoir la place de la mairie, avec la mairie d'un côté, et de l'autre une grande église. Sur celle-ci, une plaque dorée porte l'inscription suivante : 'Ordre des seigneurs du marais'. Qui que se soit dans le village qui est interrogé sur cet ordre se taira. Quant à l'adresse de la boutique de Jacqueline Houlm, là aussi, personne ne saura rien. A l'aide de (jet réussi en) persuasion ou d'intimidation, les personnages pourront découvrir qu'elle a été brulée il y a une semaine et qu'elle a été entièrement détruite par les flammes. Les magasins autour ont aussi été endommagés. Les personnages peuvent tenter d'utiliser une partie du mannequin, mais il tournera sans fin.
+
+
+
+Section Trois
+Les personnages durant la nuit devront réussir un jet en écouter. Si c'est le cas, ils seront réveillés en pleine nuit par un son lointain et bizare ; une sorte de plainte qui monte et retombe. En regardant par la fenêtre, ils pourront voir un groupe d'humains portant des torches tout autour des marais. Le bruit abruptement augmente crescendo et se tait.
+
+
+
+Section Quatre
+Les personnages peuvent aller dans les marécages de jour. Un pistage réussi méne à un rocher propre, servant d'autel. Tout autour il y a du verre (jet de DEX x 5 pour éviter de crever une chaussure ou de se couper). La plupart des débris sont colorés.
+
+Alors qu'ils sont sur place, les personnages peuvent tenter un jet en écouter. S'il réussit, ils entendront des pas nombreux arriver dans leur direction. En réussissant un jet de se cacher, les personnages pourront voir sans être vus un groupe d'une trentaine d'hommes, portant tous une robe de cérémonie rouge et verte. Ils viennent jusqu'à l'autel et commencent à gémir et à disparaître sous l'autel. Jet d'intelligence x 5 pour se rappeler ce qu'ils ont dit et apprendre le sort Ouvrir l'autel (5 PM ouvre cet autel). La pierre d'autel roule sur son sommet et les hommes descendent tous un par un dans l'obscurité souterraine. Si les personnages sont vus, les hommes les chasseront, en disant que c'est un rituel sacré, et que les étrangers n'y sont pas admis.
+
+
+
+Section Cinq
+Les personnages peuvent enquéter sur Jacqueline Houlm, et avec un jet réussi en persuasion ou en intimidation pourront découvrir qu'elle a disparu une fois son magasin brûlé, qu'elle n'était pas membre de l'église, et a été maudite.
+
+Un personnage peut essayer de leur vendre ces informations. Un par un, les personnages sont approchés par un personnage qui leur dira détenir des informations qui pourraient les intéresser contre de l'argent (100 livres). Si l'un d'eux accepte, il sera retrouvé le lendemain mort étranglé, le jour suivant, juste derière l'hôtel.
+
+
+
+Section Six
+Les personnages peuvent enquêter auprès du curé, qui dira ne rien savoir, même si les personnages découvrent que tout le village est membre de cette église.
+
+
+
+Section Sept
+Les personnages sont attaqués par 2 Shantaks (0/1d6 points de SAN). Les personnages peuvent fuir suffisement loin pour invoquer un vampire stellaire et le lancer contre les Shantaks. S'ils le font, le vampire l'emportera.
+
+
+
+Description Un
+'Ils ne ressemblent à aucun oiseau ou chauve-souris vivant sur terre… Pour leur taille plus grande qu'un éléphant et leur tête de cheval… Les oiseaux Shantak ont des écailles à la place des plumes et leurs écailles sont glissantes' La quête onirique de la cité de Kadath par H.P. Lovecraft
+
+
+
+Section Huit
+Après avoir vaincu les Shantaks, les personnages entendront les bruits d'un rituel dans les marais. Ils peuvent se précipiter la-bas, et ainsi pourront observer 25 hommes. Un d'entre eux, aussi en robe verte et rouge, git sur le sol en gémissant, et 5 autres, tiennent une femme nue sortent du trou où l'autel est normalement. L'homme à terre soudain se redresse, et s'approche, couteau levé, dans le but évident de tuer la femme. Les personnages peuvent la sauver, et n'auront des problêmes qu'avec les cinq hommes qui tiennent la femme. Quand les personnages interviennent, les 5 hommes jettent la femmes dans le trou laissé par l'autel et le referment. Un personnage en réussissant un jet de DEX x 5 pourra plonger à l'intérieur, rattraper la femme et ressortir avant que l'autel ne se referme. Une autre solution serait d'ouvrir l'autel auprès s'être débarrassé des géneurs.
+
+En bas, il n'y a qu'une seule grande pièce, recouverte de mousses et de champignons. La femme sauvée est bien Jacqueline Houlm, et elle avait caché la jambe après s'être apperçue que l'église en avait contre elle. Elle l'a mise dans l'une des maisons abandonnées. Les personnages devront être sur leur garde jusqu'à ce que le prochain train arrive, car l'ensemble des habitants les traques.
+
+
+
+Chapitre Huit: Les Contrees Du Reve
+
+
+Section Un
+Les personnages doivent se rendre à Calais, puis prendre un bateau pour Douvres. Le voyage en train se passe sans incident, sauf si les personnages ont toutes les pièces du mannequin, auquel cas ils seront attaqués sans relache par les adorateurs de Y'golonac, qui réussirons à leur voler un ou plusieurs morceaux du mannequin. A bord du bateau, en rentrant dans leur cabine, les personnages apperçoivent un viel homme gras (adepte de Y'golonac) qui fuira en appercevant à son tour les personnages. Il sémera les personnages dans la soute à bagages du bateau. A leur retour dans leur cabine, ils s'ppercevront qu'un bras du mannequin à été volé.
+
+Le steward du bateau se souviendra d'un tel homme. Il loge dans la cabine 12, pont E. C'est le pont le plus bas. La porte de la cabine est fermée, mais les personnages peuvent enfoncer la porte. A l'intérieur, un homme git par terre. Juste à côté de lui, sous une table, il y a une bouteille de 500 ml ayant contenu un liquide crémeux et blanc cassé. Un peu de liquide sort de sa bouche et le récipint le contenant s'est brisé. Sa cabine contient les parties de mannequin dérobées aux personnages dans le train). L'inconnu a de petit tremblotements et disparaît. Si un personnage l'aggripe, il disparaitra avec. Le tuer ne changera rien.
+
+
+
+Section Deux
+Les personnages peuvent boire un peu du liquide. Tout ce qu'ils portent quand ils s'endorment disparaît avec eux dans les contrées du rêve. Les personnages sont en haut d'un escalier contenant 70 marches, après quoi l'escalier se termine dans la caverne de flammes, une grande pièce avec des brasiers tout autour des murs. Il y a 2 hommes avec de longues barbes, Nasht et Kaman-Thah, qui saluent les personnages. Ils ont l'air surpris, mais laissent passer les personnages à travers les 70 marches. A certains moments, les marches cessent de descendre et se mettent à monter, mais le changement est tellement infime qu'il faut réussir un jet d'idée pour détecter ce changement. Chaque personnage va gagner une nouvelle compétence, la connaissance du rêve, à hauteur de la moitié de leur compétence en mythe.
+
+
+
+Section Trois
+Les personnages finissent devant une trappe, à la fin des escaliers, qui aboutit après une courte échelle dans une charmante forêt pleine d'arbres et de chants d'oiseaux. Sur un jet réussi en connaissance du rêve, ou un jet de chance, les personnages peuvent localiser Uthar, une citée pleine de chats. Il y a une auberge dans Uthar, où les personnages peuvent demander si l'homme gras est passé. L'aubergiste leur répondra qu'il est effectivement passé à proximité, mais qu'il ne s'est pas arrêté. Il se dirigeait droit vers le nord, vers la mer, qu'il a dû traverser. Sur le chemin, du port, si les personnages ont en leur possession des portions du mannequin, ils rencontreront Bokroug.
+
+
+
+Description Un
+'Une Créature bleu-vert apparenté à un iguane leur adresse la parole, ses écailles d'apparence métallique luisant à chaque jeu de lumière.'
+
+
+
+Section Quatre
+Bokroug essayera de convaincre les personnages de lui donner les portions de mannequin en leur possession. S'ils n'en ont aucune, ils ne le rencontreront pas. Le signe des grands anciens glané dans la première partie de l'aventure permettra de le contenir, ou les personnages peuvent fuir jusqu'à le distancer.
+
+
+
+Section Cinq
+Les personnages en arrivant dans la ville du nord peuvent s'apercevoir qu'il y a de nombreuses tavernes et auberges. Il y a une multitude de gens et de bateau dans le port. Si les personnages ont des portions du mannequin sur eux, ils seront accostés par un serviteur des bêtes de la lune, qui proposera aux personnages de leur acheter ces/cette pièce contre de l'or et des pierreries. En prétextant leur montrer les gemmes en question, il isolera les personnages dans un cul de sac, et les attaquera avec l'aide des bêtes de la lune. Voir les bêtes de la lune causera un choc (0/1d8 de perte de SAN)
+
+
+
+Description Deux
+'Elle sont… grandes et gris pâle, des choses glissantes qui peuvent aussi bien s'étirrer que se contracter à volonté. Leur aspect général, bien que changeant perpétuellement, est celle d'un gros crapaud sans yeux, mais avec une curieuse masse de tentacules violets et vibrants, et un vague museau' La recherche onirique de Kadath par H.P. Lovecraft.
+
+
+
+Section Six
+Les personnages peuvent enquêter sur l'homme gras, et à chaque jour passé faire un jet de chance. En cas de succès, ils peuvent trouver un homme qui se souvient avoir apperçu un tel homme à Kariath, loin au nord-ouest de leur position actuelle. Les personnages devront voyager jusqu'à la ville portuaire de Janitculn à l'ouest et emprunter un bateau pour Kariath. Les personnages peuvent se joindre à une caravane qui se dirige sur Janitculn.
+
+
+
+Section Sept
+Dans Janitculn, les personnages peuvent descendre à une auberge pendant le délai des 5 jours qui les sépare du prochain voyage pour Kariath. 3 autres personnes descendues dans l'auberge ont une étrange ouverture en guise de nez qui leur donne un aspect étrange de mutant. Une petite enquête sur leur compte permettra de savoir u'ils viennent de l'ouest profond, où quelques personnes vivent jusqu'à leur mort.
+
+
+
+Section Huit
+Les personnages sont réveillés au petit matin par une étrange procession passant dans la rue en chantant. Les occupants de la maison d'à côté lancent des feuilles sur le chemin de la procession. Intérogé à ce sujet, l'aubergiste dira que ce sont les hommes de Corote, qui gardent l'orme de Corote, et donnent des parties de cet arbre à ceux qu'ils en estiment digne. L'orme se trouve dans le centre de la ville. Le jour suivant, les personnages peuvent aller voir l'arbre en question et en mendier une branche. S'ils disent leur histoire sans mentir (mais ils peuvent en cacher certains passages), ils seront récompensés par une petite branche, qui peut être emportée hors des contrées du rêve. Cette branche a des propriétés spéciales, l'arbre étant créé par les dieux humains des contrées du rêve. Personne ne les connaît.
+
+
+
+Section Neuf
+Les personnages peuvent traverser la citée de Kariath sans interruption. Quand ils arrivent, en se renseignant dans n'importe quelle auberge de la ville, ils pourront apprendre que l'homme gras a appareillé son propre bateau dans la matinée (alors que c'est l'après-midi). Les personnages sont incapables d'appareiller un bateau, et le roi de la ville, bien que poli, ne leur sera d'aucun secours. Les personnages n'ont plus assez d'argent sur eux pour acheter un bateau. Au moment où les personnages vont abandonner, ils sont accostés par un personnage avec une rose rouge tatouée vers l'œil gauche. Il leur explique qu'il est dans l'intérêt de son organisation que le mannequin soit détruit, et il offre aux personnages de leur prêter son bateau : il ne peut combattre cet homme seul, et de toute façon ne pourra pas manœuvrer seul le bateau.
+
+
+
+Section Dix
+Les personnages peuvent utiliser le bateau, dont l'équipage est constitué que des étranges hommes de l'ouest. Ils se montrent très intelligents, mais peut-être manquant un peu de coordination. Au cours du troisième jour de navigation, les aventuriers rencontrent un petit bateau, avec l'homme gras à l'intérieur. Une fois accosté, l'homme prendra la forme d'Y'golonac et attaquera les personnages, et spécialement les membres d'équipage (1/1d20 de perte de SAN)
+
+
+
+Description Trois
+'… Un corps bouffi, sans tête, mais deux bouches à l'intérieur de la paume de ses mains blasphématoires.'
+
+
+
+Section Onze
+Le signe des anciens peut être utilisé pour retenir Y'golonac, et l'équipage le combattra de son mieux. Une fois Y'golonac mort, les personnages pourront aller chercher dans le bateau les portions de mannequin.
+
+
+
+Section Douze
+Le retour à Uthar se passe sans incident. Dans cette ville, les personnages seront attaqués de nouveau par Bokrug, qui tente de récupérer le bras. S'il n'a pas attaqué précédement, il tentera d'abord de convaincre les personnages de lui donner le bras.
+
+
+
+Chapitre Neuf: Des Allies Imprevus
+
+
+Section Un
+Après avoir quitté les contrées du rêve, les personnages sombrent dans un sommeil normal pour 3 heures. Les personnages se réveillent tous dans une cabine séparée. La lumière du soleil filtre à travers un hublot. Tout leur équipement est placé en pieds du lit, mais il n'y a plus aucune partie du mannequin. Ces pièces ont toutes été volées par les adorateurs de Cthulhu et d'Y'golonac. La branche d'Olme git à travers la poitrine du personnage qui l'a récupéré dans les contrées du rêve. La porte de la cabine est fermée et il y a une barre d'acier au travers de la porte.
+
+
+
+Section Deux
+On frappe à la porte et quand le personnage réponds, la porte est ouverte et un homme rentre dans la maison. Il a une rose rouge tatouée sur la tempe. Il se présente ainsi : 'Je suis Thomas Hawk, un membre de la rose rouge.' Interrogé sur les portions du mannequin, il déclare 'Malheureusement, la pièce récupérée dans les contrées du rêve a été volé avant que nous ayons pu vous joindre.''Il restera évasif quand à l'organisation de la rose rouge et de ses buts. Il dira qu'ils recherchent le mannequin pour le détruire. Si les personnages le souhaitent, il peut leur offrir une alliance temporaire.Même s'ils ne le souhaitent pas, il sera impliqué dans l'épisode final.
+
+Si les personnages sont d'accord pour s'associer avec la rose rouge, il déclarera que 2 groupes distincts essayent de s'emparer de l'objet magique. Il y a les adorateurs de Cthulhu, qui tenteraient avec de réveiller Cthulhu et de répendre son pouvoir sur terre, et les adorateurs de Y'golonac qui veuillent briser le voile deriére lequel leur dieu est emprisonné. D'autres groupes veulent cet artefact pour ses pouvoirs magiques et l'ascendant qu'il procurent sur les humains.
+
+
+
+Section Trois
+Les personnages sont invités à rester jusqu'à ce que les adorateurs viennent les chercher. Les personnages peuvent répliquer que plusieurs membres de la rose rouge ont été tués pour la récupération du mannequin, et ils ont été éparpillés pour la chasse à l'homme qui a suivi. Les personnages apprennent que les adorateurs de Y'golonac ont été vus récement à Dover. Ils ont quelques portions du mannequin et donc peuvent s'en servir pour localiser l'endroit où les cultistes sont. C'est une maison en pleine ville, entouré d'un jardin en friche et d'un mur d'enceinte très haut.
+
+Ils peuvent planifier un assaut coordonné avec les membres de la rose rouge, et son éxécution ne présentera aucune difficulté. Quatre membres du culte leur seront détachés. A l'intérieur, ils peuvent aisément et retrouver toutes les parties du manequin qui leur ont été dérobées par les adorateurs de Y'golonac, sauf un (le bas du torse).
+
+
+
+Section Quatre
+A ce stade, les personnages voudront sans doute rendre une petite visite à la maison d'Hammond. Un tour à la mairie leur permettra de localiser cette boutique, qui se trouve sur l'artère principale de la ville. Quand ils arrivent, ils se trouvent devant une devanture repeinte à neuf d'une boucherie. Les personnages peuvent enquêter à l'intérieur, et ils apprendront par le nouveau propriétaire que la maison de Hammond à été fermée à Douvres, et qu'il s'est retiré dans sa maison natale, en Ecosse. Ce ne sont pas les seuls à l'avoir demandé. Il y a 3 jours, un inconnu très costaud est venu lui demander la même chose. Il ne se souvient que de sa carrure. Il ne reste plus aux personnages qu'à reprendre leurs valises et à repartir, adresse en poche pour l'Ecosse…
+
+
+
+Section Cinq
+Les membres de la rose rouge informent que d'après leurs informations, 5 adorateurs de Cthulhu ont quitté Douvres pour une destination au nord. Les personnages peuvent commencer à les traquer en utilisant le mannequin dés leur arrivée en Ecosse, et dans ce but pourront louer un chariot et/ou des chevaux. En passant un village, le mannequin change de direction. Les personnages peuvent prendre une chambre dans l'hôtel du village, mais le mannequin ne désigne pas vraiment de direction précise, simplement il pointe toujours sur le village, dès qu'ils en sortent.
+
+
+
+Section Six
+Il y a un hôtel au village où les personnages peuvent s'installer et mettre leurs chevaux dans l'écurie. Il est tard quand ils vont se coucher. La nuit se passe sans incident. Au matin, en prenant leur petit déjeuner, l'hôtelier leur laisse un journal local.
+
+Deadans, l'article suivant attire leur attention.
+
+Un autre jeune garcon a disparu
+
+Le troisième jeune garçon a disparu dans les bois d'Endbourg, derière notre village. Le fils de Maureen Devonport, Maiz, et le fils d'Howard Willmore, Marcus, avaient disparus il y a deux semaines en arrière. Hier, la disparition de Michael Johanu a été signalée par sa mére. La police n'a aucune piste, mais elle pense qu'il y a une bête sauvage qui rode dans la forêt qui a attaqué les enfants, et ils sont peut-être morts à l'heure qu'il est.
+
+Ce n'est qu'une supposition, car rien n'a été retrouvé pour étayer cette hypothèse lors des fouilles succédant les premières disparitions.
+
+Tous les disparus allait en direction de Tom's Rock, mais rien ne prouve qu'ils ont atteint leur destination.
+
+
+
+
+Section Sept
+Les personnages peuvent se rendre à la forêt, qui est derière le village. Elle est plutôt petite, et sa seule particulrité est qu'il y a une petite montagne rocheuse en son centre. En explorant la petite montagne, et en réussissant un jet de TOC, les personnages peuvent découvrir une fissure dans une combe. En descendant dans la combe, ils peuvent voir un boyau naturel qui s'enfonce brutalement dans le sol. Le boyau est sombre et il faut une source de lumièe pour l'explorer. Le couloir s'enfonce pendant une cinquantaine de métres dans les entrailles de la terre, et se termine par une grille en fer. Il y a un cadenas en haut de la grille et à l'intérieur, le petit garçon pelotonné sur lui-même dans un coin, sur une litière de paille.
+
+
+
+Section Huit
+Les personnages peuvent attendre, et ils entendront un homme descendre dans le passage. Ils peuvent soit le suivre jusqu'à sa maison, soit le maitriser et le forcer à revenir chez lui. Il vit dans une maison un peu à l'éccart du village. Elle semble normale vue de l'extérieur, mais en entrant à l'intérieur, elle comporte une cave insonorisée avec tout le matériel nécessaire pour la torture. Dans un coin il y a les deux corps des disparus, tous les deux torturés à mort. Les personnages peuvent remettre l'homme aux autorités et reprendre leur voyage.
+
+
+
+Section Neuf
+Le mannequin peur être de nouveau utilisé pour traquer les adorateurs de Cthulhu. Les personnages reprennent leur chariot/ chevaux. En réussissant un jet en TOC, les personnages peuvent s'apercevoir qu'un chariot les suit. Ils peuvent l'arréter mais il apparaît qu'il est occupé par une jeune fille et son mari. Ils transportent un grand nombre de bagages.
+
+
+
+Section Dix
+Les personnages rattrapent les 5 adorateurs de Cthulhu sur la route. Ils sont détendus et ne gardent pas leur campement. Ils sont dans un chariot. Les personnages peuvent les attaquer et arriveront facilement à les neutraliser avec l'effet de surprise et l'utilisation d'armes à feu. La dernière partie du manneqin volée est dans le chariot. Après un jet en écouter réssit, les personnages peuvent entendre approcher rapidement un groupe de cavaliers. En tout il y a 6 hommes armés de pistolets, mousquets et fusils. Derrière eux, 4 autres hommes armés de fusils et de sabres. Ils sont tous membres du culte de la rose rouge. Arrivés à la hauteur des personnages, ils leur demandent de leur donner le mannequin. Si les personnages résistent, ils seront neutralisés rapidement et le prendront tout de même… Emportant tous les chevaux, ils chevauchent en direction de la propriété Hammond.
+
+
+
+Chapitre Dix: Perdus
+
+
+Section Un
+Les personnages se retrouvent sans eau ni nourriture. Ils ont alors deux choix : soit ils rebroussent chemin, et le plus proche village se trouve à une journée de marche, soit ils essayent de survivre par leur propres moyens en continuant leur route. C'est une région aux ressources agricoles limitées, à cause de terrain rocailleux ou à flanc de montagne. Ils peuvent toujours retourner au village et acheter ou voler des chevaux et de la nourriture et continuer ainsi, ou aussi essayer de continuer, en pistant les membres de la rose rouge, et chassant ou pêchant et ceuillant des baies (avec un jet en TOC). L'eau sera trouvé à l'aide d'un jet en chance ou en TOC.
+
+
+
+Section Deux
+Le domaine Hammond est étendu et quand les personnages approcheronnt la résidence principale, ils sentiront une odeur étrange, âcre et rance. Il y a des éclairs, et bientôt il se met à pleuvoir, d'abord doucement, puis de plus en plus fort au fur et à mesure qu'ils approchent de la maison. L'odeur devient aussi de plus en plus forte, et de nombreux éclairs zébrent le ciel. Le ciel est gris sombre, comme si le jour déclinait. La porte de devant est fermée, et est faite de planches de chéne (force de 23 sur la table de résistance). La porte arrière a été défoncée et git à l'intérieur de la batisse.
+
+Dans la maison, une scéne de carnage sans précédent (1/1d8 de perte de SAN). Il y a des corps démembrés, habillés de robes de cérémonie, comme par un animal sauvage. Tout le mobilier a été détruit, et éparpillé tout autour avec une violence inouïe. Un piano à queue est brisé en deux. Un jet réussi en TOC permettra de voir des impacts de fusil de chasse sur les murs tout autour de la pièce, et un autre jet en TOC dans la cuisine permettra de découvrir un bras tenant encore un fusil de chasse coincé sous une table de travail en chêne, qui a été retournée. Le carnage date de deux jours en arrière, et les mouches commencent à pulluler. Il sera nécessaire d'éliminer les cadavres de la maison pour éviter les maladies.
+
+
+
+Section Trois
+Il fait vraiment noir dehors, et l'orage se poursuit sans diminuer. Les personnages peuvent soit rester dans la maison pour la nuit, soit mourir d'une pneumonie et de froid. Tous les charroits ont été détruits, et les chevaux tués, écorchés vifs. En réussissant un jet de médecine, un personnage peut constater que les corps ont été démembrés, et que les membres n'ont pas été sectionnés. Pendant la nuit, un jet en écouter permettra aux personnages qui le réussissent de se réveiller. Un inconnu est en train de fouiller dans la cuisine à la recherche de nourriture. Il est sale et porte des vêtements de maître d'hôtel, complétement déchirés et froisés. Surpris, il tentera dans un premier temps de fuir. Ses yeux sont fous et son regard fixe. Un jet réussi en psychologie ou un verre d'alcool le calmeront. Une fois calmé, il dira être Thomas Mac Kay, maître d'hôtel de monsieur Hammond.
+
+'Messieurs, un enchaînement horrible d'événements a eu lieu ici. Il y a un mois, mon bon maître retournant à ses boutiques de Douvres et de Londres pour la surveiller avec une portion d'un mannequin de facture si monstrueuse qu'elle me rend malade rien qu'à y repenser. La chose était un mauvais présage, et pendant sa visite au magasin de Douvres, il se rendit compte que le magasin n'était plus rentable. Malheureusement, le magasin avait tant de dettes qu'il du se résoudre à le vendre pour couvrir les frais occasionnés. Monsieur Hammond était si affecté par la chose qu'il transportait avec lui qu'il décida de détruire la chose macabre qu'il portait avec lui, mais ni le feu ni l'acide en vinrent à bout. La chose ne pouvait pas non plus être simplement entaillé par les armes à feu ou la lame d'un sabre. Il finit par le jeter au milieu d'un lac, espérant que ce blasphéme à la raison ne reverrait plus jamais le jour de nouveau.Malheureusement un des serviteurs inexplicablement plongea et le ramena et… et… le mit sur lui. Il le plaça sur son abdomen et soudain se transforma en une créature de l'enfer qui tua et massacra tout le monde, il y a 2 jours. J'ai demandé à monsieur de fuir avec moi et l'ai imploré d'aller se cacher avec moi dans le tas de charbon dans la cave, mais mon bon maître se fit tuer pour couvrir ma fuite. Je me suis caché dans la cave pendant deux jours avant d'oser en sortir.'
+
+Plus tard, pendant la nuit, les personnages sont réveillés par des hurlements bestiaux provenant de la forêt autour du domaine.
+
+
+
+Section Quatre
+Le matin suivant, l'orage a pris fin, et les personnages peuvent s'aventurer dehors. Le maître d'hôtel s'est endormi d'un sommeil de plomb. Le sol est détrempé, et les personnages peuvent aller dans la direction où ils ont entendu les hurlements. Avec un jet de pister, ils verront 2 types de traces : la première qui ressemble à un pied humain, la seconde qui ressemble à un pied de bois du mannequin. Avec un jet réussi de chance, les personnages tombent par hasard sur une clairière contenant les restes d'un autre carnage, les restes de 7 membres du culte de la rose rouge gisent au sol, les membres arrachés. Il n'y a aucune partie du mannequin visible. En cherchant dans les restes, les personnages peuvent trouver un livre intitulé 'Le rêve et cetera' en latin, mais il y a une traduction en anglais sous chaque ligne. Sa lecture fera perdre 1d8 points de SAN, mais rapportera +5% en mythe et +5% en connaissance du rêve. Les passages suivants en sont extrait :
+
+'Revenir dans les contrées du rêve est simple, une fois qu'on s'y est rendu une fois, il suffit de s'endormir avec la ferme intention de revenir dans la forêt enchantée.'
+
+'La plupart des objets peuvent être emportés dans les contrées du rêve ou ramené dans le monde réel, mais les branches de l'orme de Corote peuvent exister, comme un certain nombre d'artefact magique, dans les deux mondes. Le détruirre dans un des deux mondes le détruit aussi dans l'autre. La plupart des objets magiques peuvent exister entièrement dans un monde et partiellement dns l'autre. Utiliser ou même observer un objet magique partiellement existant est impossible pour une créature du monde où elle existe partiellement. Si la personne est originaire du même monde que l'artefact, il pourra lancer un sort pour le déplacer d'un monde à l'autre, mais c'est une tâche difficile. L'artefact sera alors banni quelque part dans la forêt enchanté.'
+
+'Les visages des dieux des hommes sont visibles sur le mont Ngranek.'
+
+Il ya également un sort pour faire passer d'un monde à l'autre un objet magique apellé 'Déplacer un Artefact'
+
+
+
+Section Cinq
+Au cours de la nuit, les personnages entendent des cris et des hurlements provenant de la forêt suivi d'un choc contre la porte avant, qui s'éffondre (0/1d3 de perte de SAN). Le fou s'étant habillé du mannequin entre, les yeux enragés et rougeoyants. Les balles et les épées ne lui font rien, mais le feu et les meubles le ralentiront. Ses chances de toucher sont de 35% et il occasionne 2d10 points de dégats. Si le sort 'Déplacer artefact' est lancé sur le torse, il disparaitra et tombera à terre. Son porteur tombera en poussière immédiatement..
+
+
+
+Section Six
+Le maître d'hôtel offrira de monter la garde autour des corps des personnages qui iront dans les contrées du rêve pour rapatrier la pièce de mannequin. Les personnages se rendent jusqu'à la forêt enchantée sans rencontrer le moindre problême. La forêt est très calme, plus calme que pendant leur première expédition. Si les personnages essayent d'errer au hasard dans la forêt, sur un jet réussi en chance puis d'écouter, le personnage entendra dans les profondeurs de la forêt des pleurs perçants. Guidés par le son, les aventuriers arrivent dans une clairière où une trentaine de chats miaule à perdre poumons. Au centre du groupe de chats, luit.
+
+Les chats lancent des regards sinistres aux personnages s'ils s'enparent de l'objet. Les chats suivent alors les personnages. Alors qu'ils quittent la clairière, les personnages peuvent apercevoir sur un jet réussi en TOC une bête de la lune griffée à mort par des centaines de petites pattes.
+
+
+
+Sorts
+
+    Déplecer un Artefact: 15 PM, 1 SAN; Le sort peut seulement être lancé sur un artefact qui coexiste à la fois dans le monde du rêve et le monde réel, comme le mannequin. Le jeteur de sort doit être en présence de l'artefact et un chant doit être dit. L'artefact disparraitra du monde de la réalité pour immédiatement apparaître quelque part dans les bois enchantés. Le chant ne dure que 2 rounds de combat à faire effet.
+
+
+
+Chapitre Onze: Victoire
+
+
+Section Un
+NdT : en préambule à cette partie de campagne, demandez l'odre de marche des personnages dans la foule (prétextez que c'est important au cas où ils se perdraient dans la foule). C'est le dernier personnage qui sera attaqué pendant les événements de la troisième section.
+
+Si les personnages ont l'idée d'apporter avec eux la branche d'orme, ils peuvent commencer immédiatement, sinon ils devront quitter les contrées pour y revenir. S'ils reviennent, ils auront à faire face à deux bêtes de la lune. Souvenez-vous qu'un jet en connaissance du rêve peut être fait pour modifier les choses autour des personnages. L'Orme ni le mannequin ne peubent être changé, pas plus que les êtres vivants. Les personnages résideront à Uthar, et peuvent descendre dans l'auberge la plus proche du mont Ngarnek.
+
+Il y a un viel homme, s'ils font allusion aux visages des dieux en public, qui dira 'Arrr, j'avais été allé une fois là-bas, pour aller voir le visage des Dieux, mais j'avais dû renoncer à cause des horreurs de la nuit. Ils n'aiment pas les étrangers sur leur territoire.
+
+La montagne elle-même est située sur une ile à 80 km au nord. Je pense que vous devriez aller avoir besoin d'un bateau pour vous y rendre, et d'un capitaine assez fou pour tenter l'aventure. Allez voir le capitaine Halaror, et son bateau est reluisant et rapide. Il a jeté l'ancre au port de Norith.'
+
+Il ne sait pas grand chose par contre du visage des Dieux, qui sont gravées sur un flanc difficile à approcher par la mer sur plusieurs kilométres. Il sera sans doute nécessaire de mouiller l'ancre et escalader pour avoir une vue suffisemment dégagée.
+
+
+
+Section Deux
+En chemin pour le nord, les personnages sont attaqués par deux bêtes de la lune. Norith est très animée, car il y a en ce moment deux événements simultanés : sur des champs en friche, en dehors de la ville, un cirque s'est installé, ainsi qu'une fête paysanne. Les personnages pourront se renseigner sur le Capitaine Halaror dans une taverne appelée le Merry Drunkard, où le tavernier se rappellera de lui 'Hé, notre capitaine est un homme jovial. Il vient tous les soirs, précis comme une horloge, en fin de journée. Si vous voulez l'attendre, il devrait passer ce soir…'.
+
+Si les personnages demandent aux autres capitaines, tous refuseront dés qu'ils seront la destination des personnages.Les personnages n'ont plus qu'à attendre le capitaine Halaror, qui ne viendra pas. En se renseignant à la capitainerie, ils pourront connaître le nom de son bateau, une vedette rapide 'L'inprévisible' très bien entretenue. A bord, l'équipage n'a pas vu leur capitaine de la journée, et il n'y a aucun chargement à bord. Il s'est rendu à la fête, et reviendra probablement demain.à midi. Si les personnages attendent jusque là, le capitaine ne reviendra pas le lendemain.
+
+
+
+Section Trois
+C'est la nuit et la fête bat son plein. Il y a des feux d'artifices, et les animaux abboient et appèlent dans la nuit. Les personnages peuvent demander aux propriétaires de stand, s'ils ont vu une personne qui correspondrait à la description du capitaine. Avec un jet réussi en chance, il leur sera dit qu'il a été apperçu vers 18 heures en train de boire dans une tente, en compagnie d'un homme à la peau noire. Alors que les personnages partent et vont se méler à la foule, à moins de réussir un jet en écouter à -25% (à cause du tintamare ambient), l'un d'eux sera attrappé par derière, et un couteau sera glissé sous sa gorge. Une voix lui mumure à l'oreille 'Un mot et tu es mort.' Le personnage retenu voit ses compagnons s'évanouir dans la foule, à moins qu'il essaye de crier, auquel cas il est un homme mort.
+
+Une fois seul avec le personnage, le mystérieux kidnappeur se détendra un peu mais permettra au personnage interpelé de se retourner, avec un 'voyons qui me cherche !'. Un homme qui correspond à la description du capitaine fera face au personnage. Il dira : 'Vous me cherchez avec votre groupe. Pourquoi ?'. La réponse a intérêt à être sincére ou le personnage un fiefé menteur : le capitaine a 65% en psychologie et essayera de détecter un mensonge. Si le capitaine détecte un mensonge, il étranglera à moitié le personnage jusquà ce qu'il lui avoue la vérité. Le capitaine acceptera avec joie d'emmener les personnages, mais un jet réussi en psychologie permettra de s'apercevoir qu'il cache quelquechose.
+
+
+
+Section Quatre
+Le bateau appareille le jour suivant. Il faudra une journée pour atteindre l'île. Si les personnages ont vu l'équipage originel, un jet réussi en idée fera ressortir qu'aucun des membres de l'équipage vu sur le port n'est là, et à leur place il y a 6 hommes à la peau noire. Une fois les terres hors de vue, le capitaine va voir les personnages et leur demande de lui remettre le mannequin. L'équipage devenant de plus en plus menaçant si les personnages font mine de résister. Si les personnages lui donne, ils passeront ensuite par la planche.
+
+S'ils résistent, tous les membres d'équipage passeront à l'attaque. Le capitaine sera le seul à ne pas attaquer. En fin de combat, le capitaine se rendra en suppliant les personnages de l'épargner : il a été contraint de faire ça par des bêtes de la lune. Le voyage se passe ensuite sans incident, mais les personnages sont obligés de remplacer les membres de l'équipage.
+
+Si le capitaine a été tué, il sera impossible de se repérer et il faudra aux personnages s'en remettre à la chance.
+
+
+
+Section Cinq
+En arrivant sur l'île, les personnages doivent escalader pendant une journée complête, mais seront récompensés par la vision des portraits des Dieux. Un jet d'idée réussi et les personnages se rendront compte qu'il s'agit d'hommes de l'ouest. Le capitaine dira aux personnages qu'il n'y a qu'une ville dans l'ouest profond, Soros, et qu'ils leur faudront obtenir un laisser-passer pour entrer dans la ville, ce qui ne sera pas facile.
+
+Alors qu'ils quittent le site, les personnages peuvent apercevoir ce qui leur semble être une sorte de chauve-souris. Le capitaine blêmira et dira aux personnages de se dépécher à rejoindre le bateau : ce sont des horreurs de la nuit. Heureusement pour les personnages, les horreurs sont trop éloignées et n'auront pas le temps de les rattraper. Si le capitaine est interogé par les personnages au sujet des horreurs, le capitaine dira que de plus loin il les voit, mieux il se porte, et qu'il n'a pas envie de connaître leur aspect réel.
+
+
+
+Section Six
+A Norith, il sera aisé aux personnages de louer un chariot ou de devenir des mercenaires pour la protection de caravane marchandes pour Janticuln. Le voyage se passe sans problême. En arrivant, ils peuvent demander s'il y a une caravane en partance pour Soros, et il n'y en aura aucune. Auprès des quelques hommes de l'ouest qui vivent sur Janticuln, il y a un groupe qui semble accepter. Si le mannequin est utilisé pour la détection du mal, il se pointera très rapidement sur eux : ce sont en fait des bêtes de la lune qui ont changé d'apparence pour ressembler à des hommes de l'ouest.
+
+Hungin, Jantin et Loro, les hommes de l'ouest, diront que les Dieux humains résident en ce moment à Soros, mais qu'il faut se presser car ils repartiront bientôt. Ils peuvent les accompagner pendant leur retour à Soros, ou ils peuvent voyager par leurs propres moyens. Hungin dira qu'ils acceptent les personnages car l'union fait la force, surtout en face de tous les bandits de grand chemin qui rodent entre ces deux villes. D'autre part, ils connaissent un passage secret qui évitera aux personnages l'obstacle des gardes aux portes de la cité.
+
+
+
+Section Sept
+Le voyage est sans surprise, et ils arrivent prés du mur d'enceinte immense en Basalte de la cité de Soros. Jantin rentre dans la cité avec la charrette et Hungin et Loro guident les personnages vers un petit affleurement dans la pierre qui une fois déplacé révéle une trappe qui traverse le roc. Le passage est humide et malodorant. Finalement, les personnages débouchent sur une porte. De l'autre côté, 6 bêtes de la lune, et Jantin pour s'emparer du mannequin. Alors que les personnages entrent, Hungin et Loro se transforment et attaquent les personnages. Il y a une autre porte par laquelle les personnages peuvent fuir.
+
+A l'intérieur de la cité, la structure dominante est la citadelle, un palais immense, tout en tours et en flêches de basalte et d'onyx. Il y a de nombreux personnages dans la rue. Les personnages doivent amener le mannequin à la citadelle. Il y a 2 gardes au pont levis devant la citadelle. Ils croiseront le fer devant les personnages, et diront 'Halte, que venez-vous faire ?'. Si les personnages déclarent qu'ils viennent voir les Dieux humains, ils seront introduit à l'intérieur, sinon ils seront refoulés à l'entrée.
+
+Ils seront guidés jusqu'à une grande pièce, où 3 hommes et 3 femmes, tous très grands, identiques aux portraits scultés sur le flanc de la montagne. Ces êtres dansent comme des fous. Il y a également une chaise sur laquelle est assise une femme superbe, entourée de nombreux chats. Soudain, elle se tarnsforme en un gros chat. Si les personnages ont la branche d'Orme, elle ronronne 'laissez-moi le mannequin et la branche et je me renseignerais comment se débarasser de votre fardeau'. Elle ne répondra pas à d'autres questions, et si elle est agacée, elle lancera le groupe de chats sur les personnages. Alors que les personnages partent, ils verront que le mannequin et la branche ont été placés dans un grand coffre situé sous son trone.
+
+
+
+Section Huit
+Les personnages peuvent maintenant regagner 3d8 points de santé mentale, car ils ont mené à bien l'aventure.
+
+
+
+Appendices
+
+
+Documents Ecrits
+Lengrav Reinbach
+Officier de justice,
+23 Fitzen Roul
+Targu Mures, Roumanie
+Le 4 avril 1890
+
+Monsieur,
+J'ai le regret de vous annoncer que votre oncle, Clesvial Arnia, est mort lors d'un tragique accident, en tombant du sommet d'un à-pic de la région. Etant le représentant vivant le plus proche de votre oncle, il vous a couché sur son testament. Il vous a nomé successeur en temps que successeur pour la possession de ses quelques terres
+Malheureusement, il y a aussi des closes que vous devrez respecter avant de devenir propriétaire des possessions de votre oncle. Premièrement il est spécifié que vous devrez venir en Roumanie, accompagné d'amis de confiance et de proches. Il a aussi demandé que vous devrez au moins rester une nuit dans son manoir. Ceci fait, vous recevrez les titres de propriété qui vous échoieront de droit.
+Veuillez trouver ci-joint une clé qui devait vous parvenir au moment de sa mort. Je n'en connais pas l'utilité.
+Lorsque vous arriverez, veuillez passer à mon étude de façon à ce que je vous confie les clefs du manoir.
+
+
+Sincèrement,
+
+
+
+Lengrav Reinbach
+Cher neveu,
+
+Vous avez sans doute été surpris de découvrir que vous aviez un oncle vivant en Roumanie. Sachez simplement qu'une vieille querelle de famille a fait que j'ai été rejeté par la plupart des membres de notre famille, il y a longtemps. J'ai gardé contact pendant très longtemps contact épistolaire avec votre père… Sans doute par nostalgie...
+Bien, le manoir sera maintenant à vous, et vous pourrez le quitter si c'est votre bon vouloir, après avoir remplis ma petite demande. Si elle n'est pas honorée, quelle que soit la raison, mes biens iront à une œuvre de charité.
+Je vais vous demander de lire avec attention ce qui va suivre, et prenez le ensuite pour les divagations d'un vieux fou ou pas, mais soyez prévenu que si vous décidez d'ignorer ce qui suit, vous vous rendrez peut-être responsable de l'arrivée de l'enfer sur terre, et de vagues de désolation à travers tout l'univers.
+Je me suis installé dans ce manoir durant l'été 1866. Venant de Munich, et fatigué de la vie citadine, je rassemblais mes économies et acheta ce manoir à bas prix dans le but de me retirer du monde.
+En ce temps, il y avait de nombreuses rumeurs qui courrait dans le village sur l'ancien propriétaire de ce manoir qui était mort mystérieusement, sans doute par quelque moyen surnaturel, un vampire ou une autre créature malsaine ou impie similaire. Au début je les ignorais, jusqu'au jour où en remeublant l'ancienne étude de mon prédécesseur, je tombais par hasard sur un passage secret. Je l'ouvrais, et la pièce découverte est à ce jour mon étude, et dont vous avez la clef. J'y découvrais une bibliothèque pleine d'anciens volumes, dont certains tellement blasphématoires que je les brûlais sur-le-champ. Je suis resté catholique toute ma vie, et de tels blasphèmes ne doivent pas exister sur terre.
+J'ai commencé à changer d'état d'esprit en découvrant les différentes parties d'une très ancienne poupée ou d'un mannequin magique. Elle apparaissait comme un mannequin normal, excepté des traits singulièrement dérangeant de son visage et de son torse. Les membres m'apparurent bizarrement déformés. Lorsque j'assemblais cette chose, elle se mit à dégager une clarté tellement démoniaque que je décidais de m'en débarrasser de suite. Mais rien, que ce soit l'acide, le feu ou le fer ne semblait pouvoir endommager sa surface.
+Je regrette maintenant d'avoir détruit autant de tomes rares, mais je découvrit que l'artefact en question datait de temps immémoriaux et était utilisé lors des rituels magiques. J'ai aussi découvert que son nom véritable ne peut pas être prononcé en sa présence par un être mortel sans éveiller des flots de créatures issues des plus profondes couches de l'enfer. Sachant cela, j'ai immédiatement détruit toute référence au nom de la chose.
+Je cherche maintenant le moyen de détruire la chose et son pouvoir, qui pourrait être utilisé de différentes manières, dont le contrôle de populations entières ! Imaginez le chaos qui en résulterait ! Le passage suivant provient de la traduction d'un livre enfermé dans les profondeurs de la librairie royale de Londres :
+
+'...et cette chose, diabolique et éternelle, un corps d'homme, mais qui peut être utilisé pour le détruire, permet aussi l'invocation d'êtres d'une folie incommensurable provenant d'un passé innommable. Cette chose impie ne pourra jamais être détruite par l'homme. Seuls ceux qui sont au-dessus de l'homme bien que plus faibles que l'homme [...] et seulement avec l'aide de...'
+
+Le livre était incomplet et certaines de ses pages déchirées comme si un homme fou avait essayé de le détruire, mais lors de recherches suivantes, j'ai découvert que les dieux du rêve pouvaient détruire ce que l'homme ne pouvait détruire.
+Mes recherches ne passèrent pas inaperçues par d'autres, qui étaient intéressé par le pouvoir que le mannequin aurait pu leur apporter, et en revenant en Roumanie, j'ai été accosté par un certain nombre de personnes qui tentèrent de s'approprier le mannequin. J'ai désassemblé secrètement l'ensemble de la poupée et l'ai vendu de part le monde, ne conservant que sa tête.
+Veuillez si vous y parvenez, détruire cette abomination de la surface de la terre.
+
+Sincèrement,
+
+
+
+Clesvial Arnia
+
+Acheteur	Ville	Pays	Partie vendue
+Le couturier Manneuin	Anzio	Italie	Jambe gauche
+Les parures royales	Münster	Allemagne	Haut du torse
+Fêtes de mode	Tilbourg	Pays Bas	Bras droit
+Germain Deredor	Paris	France	Jambe droite
+Jacqueline Houlm	Fos-de-Craud	France	Bras gauche
+La maison d'Hammond	Douvres	Angleterre	Bas du torse
+
+"Comme les dieux mortels sont si faibles, il n'est même pas sûr qu'ils puissent détruire la Chose-pouvant-ramener-Ceux-du-dehors-qui-sont-piégés-et-dorment, sans l'aide de la branche de l'Orme de Corote."
+
+Fugue ou enlèvement?
+
+Deux jeunes filles du pays, Evanda Itana and Juliana Liro, qui ont disparu la semaine dernière n'ont toujours pas été retrouvées. La police est sur les dents et n'a trouvé aucune preuve d'enlèvement, excepté le fait que la chambre des deux jeunes filles ont été retrouvées sans dessus dessous. Ce qui peut supposer une lutte ou une mise en scène. La police a aussi émis l'hypothése selon laquelle une voir les deux jeunes filles aurait été enceinte et elles auraient fuit de peur de représailles.
+
+La mére d'Evanda a déclaré à nos journalistes que ces deux jeunes filles n'étaient pas intimes, et qu'elle ne croyait pas un instant à cette thése. La police continuera ses investigations jusqu'en fin de semaine, après quoi elle arrêtera ses recherches sans autre preuve.
+
+
+Un cadavre dans la Seine
+
+Un homme a été trouvé flottant dans la seine la nuit dernière par un promeneur sur les bords de la seine. L'homme n'est pas français, mais les gendarmes ont été capables de trouver où il vivait, un petit hôtel. Sa chambre avait été cambriolée, et il est probable qu'il a été tué au moment où il a surpris son ou ses aggresseurs : il y avait encore de l'argent dans la chambre d'hôtel. Les gendarmes n'ont laissé filtrer aucune information quand à la cause de la mort, mais ils ont laissé filtrer qu'il y avait de la peinture ou une autre substance sur le front de l'homme.
+
+Un autre jeune garcon a disparu
+
+Le troisième jeune garçon a disparu dans les bois d'Endbourg, derière notre village. Le fils de Maureen Devonport, Maiz, et le fils d'Howard Willmore, Marcus, avaient disparus il y a deux semaines en arrière. Hier, la disparition de Michael Johanu a été signalée par sa mére. La police n'a aucune piste, mais elle pense qu'il y a une bête sauvage qui rode dans la forêt qui a attaqué les enfants, et ils sont peut-être morts à l'heure qu'il est.
+
+Ce n'est qu'une supposition, car rien n'a été retrouvé pour étayer cette hypothèse lors des fouilles succédant les premières disparitions.
+
+Tous les disparus allait en direction de Tom's Rock, mais rien ne prouve qu'ils ont atteint leur destination.
+
+
+

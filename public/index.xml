@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/posts/call_of_cthulhu_archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/call_of_cthulhu_archive/</guid>
+      <description>This is an archive of Call of Cthulhu scenarios which have dropped off the web. They were mostly recovered from the Internet Archive, starting from E.P. Berglund&amp;rsquo;s Cthulhu Mythos on the Internet page.
+If you&amp;rsquo;d like to help, please send a PR. In particular: scenario summaries, title or author correction or conversion to markdown would be much appreciated!. Rather than adding lots of detail about scenarios here, add them to the Yog Sothoth Wiki instead.</description>
+    </item>
+    
+  </channel>
+</rss>
