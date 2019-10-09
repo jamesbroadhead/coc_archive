@@ -15,8 +15,10 @@ These are individually licensed, and the copyright remains with the original aut
 
 # Development
 
-Install hugo 0.54
+`git submodule init && git submodule update`
 
-During Development:  `hugo server -D`
+Install hugo 0.58.3
 
-To build for publishing: `hugo -s .`
+During Development:  `make server`
+
+To build for publishing: `make build`
