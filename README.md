@@ -4,6 +4,8 @@ The source for the Call of Cthulhu Scenario Archive, which contains scenarios fo
 
 These have mostly been recovered from the Internet Archive.
 
+This site is hosted at: https://obviouslies.net/coc_archive
+
 
 ## Contributing
 If you have similar scenarios, I'd be happy to add them. If you'd like to add detail or make corrections, please open a Pull Request. If you want to write a scenario up in detail, please do that on the [Yog Sothoth Wiki](https://www.yog-sothoth.com/wiki/index.php/Main_Page) instead.
