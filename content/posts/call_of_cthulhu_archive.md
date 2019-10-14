@@ -21,6 +21,3 @@ In French
 =========
 
 * [Une Noble Poupee](/1890/a_noble_doll/une_noble_poupee.txt), a translation of [A Noble Doll](/1890/a_noble_doll/a_noble_doll.txt) by _Jean-Michel Thoral_.
-
-
-
