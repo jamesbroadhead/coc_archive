@@ -1,2 +1,8 @@
-theme = "strange-case"
 baseurl = "/coc_archive"
+
+theme = "strange-case"
+description = "A Call of Cthulhu player-written scenario archive"
+sidebarDescription = "Scenarios!"
+
+[params]
+  DateFormat = "2006-01-13"
